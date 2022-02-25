@@ -1,0 +1,10 @@
+D:\Programming\ASP Dot Net\Practice\Windows\DBConnectionUtility\DBConnectionUtility\bin\Debug\DBConnectionUtility.exe.config
+D:\Programming\ASP Dot Net\Practice\Windows\DBConnectionUtility\DBConnectionUtility\bin\Debug\DBConnectionUtility.exe
+D:\Programming\ASP Dot Net\Practice\Windows\DBConnectionUtility\DBConnectionUtility\bin\Debug\DBConnectionUtility.pdb
+D:\Programming\ASP Dot Net\Practice\Windows\DBConnectionUtility\DBConnectionUtility\obj\Debug\DBConnectionUtility.csprojAssemblyReference.cache
+D:\Programming\ASP Dot Net\Practice\Windows\DBConnectionUtility\DBConnectionUtility\obj\Debug\DBConnectionUtility.Properties.Resources.resources
+D:\Programming\ASP Dot Net\Practice\Windows\DBConnectionUtility\DBConnectionUtility\obj\Debug\DBConnectionUtility.csproj.GenerateResource.cache
+D:\Programming\ASP Dot Net\Practice\Windows\DBConnectionUtility\DBConnectionUtility\obj\Debug\DBConnectionUtility.csproj.CoreCompileInputs.cache
+D:\Programming\ASP Dot Net\Practice\Windows\DBConnectionUtility\DBConnectionUtility\obj\Debug\DBConnectionUtility.exe
+D:\Programming\ASP Dot Net\Practice\Windows\DBConnectionUtility\DBConnectionUtility\obj\Debug\DBConnectionUtility.pdb
+D:\Programming\ASP Dot Net\Practice\Windows\DBConnectionUtility\DBConnectionUtility\obj\Debug\DBConnectionUtility.UI.Form1.resources
